@@ -1,4 +1,4 @@
-# aula dai 12/08
+# aula dia 12/08
 
 Integrantes:
 - Maria Fernanda Garavelli Dantas RM:562686
